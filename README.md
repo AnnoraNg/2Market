@@ -42,9 +42,6 @@ As part of my LSE coursework, I analysed customer and marketing data from **2Mar
 - Use polished visuals that resonate with educated, high-income groups  
 - Launch 2 targeted campaigns per quarter tailored to this segment  
 
-📸  
-![Recommendation 1](./Screenshot%202025-05-22%20at%203.17.13%20PM.png)
-
 ---
 
 ### 💰 Recommendation 2: Reallocate Ad Budget to Instagram & Facebook  
@@ -60,9 +57,6 @@ As part of my LSE coursework, I analysed customer and marketing data from **2Mar
 - Bulkmail: **10%**
 - Testing new channels: **10%**
 
-📸  
-![Recommendation 2](./Screenshot%202025-05-22%20at%203.17.16%20PM.png)
-
 ---
 
 ### 🛒 Recommendation 3: Prioritise Top Products & In-Store Promotions  
@@ -74,9 +68,6 @@ As part of my LSE coursework, I analysed customer and marketing data from **2Mar
 - Run in-store tasting events to engage high-spenders  
 - Offer bundle promotions (target: +15% cross-sell in Q3)  
 - Improve physical displays and signage for these categories  
-
-📸  
-![Recommendation 3](./Screenshot%202025-05-22%20at%203.17.20%20PM.png)
 
 ---
 
@@ -90,36 +81,6 @@ As part of my LSE coursework, I analysed customer and marketing data from **2Mar
 
 📸  
 ![KPIs](./Screenshot%202025-05-22%20at%203.17.23%20PM.png)
-
----
-
-### 🔄 Monitoring Approach  
-- Monthly KPI tracking with updated Tableau dashboards  
-- Quarterly reviews to refine strategies  
-- Attribution tracking to link conversions with spend
-
-📸  
-![Monitoring Approach](./Screenshot%202025-05-22%20at%203.17.27%20PM.png)
-
----
-
-### 📆 Implementation Timeline  
-**Short Term (0–3 months)**:
-- Reallocate ad budget  
-- Launch tailored campaigns  
-- Build Alcohol & Meat bundles  
-
-**Mid Term (6–12 months)**:
-- Track impressions  
-- Run pilot Instagram & Facebook campaigns  
-- Expand in-store campaigns  
-
-**Long Term (12+ months)**:
-- Scale globally  
-- Run quarterly NPS surveys  
-
-📸  
-![Timeline](./Screenshot%202025-05-22%20at%203.17.30%20PM.png)
 
 ---
 
