@@ -1,5 +1,4 @@
-# 📊 2Market Project  
-**LSE Data Analytics Career Accelerator** | **Grade: 91.1%**  
+# 📊 2Market Project - 91.1% Final Grade
 **Tools used**: Excel, SQL, Tableau  
 
 📁 [Technical Report](./2Market%20Technical%20Report.pdf)  
