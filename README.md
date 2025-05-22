@@ -1,4 +1,4 @@
-# 📊 Assignment 1: 2Market Project  
+# 📊 2Market Project  
 **LSE Data Analytics Career Accelerator** | **Grade: 91.1%**  
 **Tools used**: Excel, SQL, Tableau  
 
