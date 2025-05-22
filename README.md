@@ -79,9 +79,6 @@ As part of my LSE coursework, I analysed customer and marketing data from **2Mar
 | **Customer Engagement** | +5 NPS points (Q4 2025) |
 | **Marketing ROI** | +15% ROI via smarter budget use (Q2 2025) |
 
-📸  
-![KPIs](./Screenshot%202025-05-22%20at%203.17.23%20PM.png)
-
 ---
 
 ## 🚀 Professional Development and Impact  
