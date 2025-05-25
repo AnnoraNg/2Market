@@ -87,3 +87,5 @@ This project sharpened my ability to:
 - Present insights clearly to non-technical stakeholders  
 
 It reflects how I approach marketing: grounded in data, focused on outcomes, and driven by segmentation strategy and clear ROI thinking.
+
+Presentation: https://youtu.be/IOD6pP7gTYo?si=lz_YakuNdqiop8W- 
