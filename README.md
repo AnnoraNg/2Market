@@ -27,6 +27,23 @@ As part of my LSE coursework, I analysed customer and marketing data from **2Mar
 
 ---
 
+## 📊 Dashboard Snapshots
+
+These Tableau dashboards visualise patterns in customer demographics, product sales, and marketing effectiveness across the 2Market dataset.
+
+1. **Customer Demographic Overview**
+
+<img src="dashboardsnapshots/Dashboard 1.png" width="700"/>
+
+2. **Product Sales and Demographic Variation**
+
+<img src="dashboardsnapshots/Dashboard 2.png" width="700"/>
+
+3. **Advertising Channel Effectiveness and Customer Engagement**
+
+<img src="dashboardsnapshots/Dashboard 3.png" width="700"/>
+
+---
 ## 📌 Key Insights and Recommendations  
 
 ### 🎯 Recommendation 1: Focus on High-Value Segments  
