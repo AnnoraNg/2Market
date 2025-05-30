@@ -33,15 +33,15 @@ These Tableau dashboards visualise patterns in customer demographics, product sa
 
 1. **Customer Demographic Overview**
 
-<img src="dashboardsnapshots/Dashboard 1.png" width="700"/>
+<img src="dashboardsnapshots/Dashboard 1.png" width="800"/>
 
 2. **Product Sales and Demographic Variation**
 
-<img src="dashboardsnapshots/Dashboard 2.png" width="700"/>
+<img src="dashboardsnapshots/Dashboard 2.png" width="800"/>
 
 3. **Advertising Channel Effectiveness and Customer Engagement**
 
-<img src="dashboardsnapshots/Dashboard 3.png" width="700"/>
+<img src="dashboardsnapshots/Dashboard 3.png" width="800"/>
 
 ---
 ## 📌 Key Insights and Recommendations  
